@@ -1,0 +1,2 @@
+# git-clone-https-github.com-your-username-energy-consumption-ml.git-cd-energy-consumption-ml
+This project focuses on predicting and optimizing energy consumption using Machine Learning by combining energy usage data with weather parameters like temperature and humidity. By analyzing patterns in both datasets, the model accurately predicts future consumption and provides insights and optimization strategies to reduce overall energy usage.
